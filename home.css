@@ -1,0 +1,35 @@
+body {
+    font-family: 'Trebuchet MS', sans-serif;
+    background-color: gray;
+  }
+
+.navbar{
+    display:flex;
+    flex-direction: flex-start;
+    color:rgb(218, 218, 218);
+}
+
+.home,.portfolio,.social{
+    margin: 10px;
+    font-size: xx-large;
+}
+
+.home > a:link,.portfolio:link,.social:link{
+    color:white;
+    text-decoration: none;
+}
+
+.home > a:visited,.portfolio:visited,.social:visited{
+    color:white;
+    text-decoration: none;
+}
+
+.home:active,.portfolio:active,.social:active{
+    color:white;
+    text-decoration: none;
+}
+
+.home:hover,.portfolio:hover,.social:hover{
+    color:white;
+    text-decoration: underline;
+}
