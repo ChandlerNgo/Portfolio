@@ -18,16 +18,11 @@ body {
     text-decoration: none;
 }
 
-.social > a:link, .social > a:visited, .social:active{
+.home > a:link, .home > a:visited, .home:active{
     color:white;
     text-decoration: none;
 }
 
-.portfolio:hover, .social:hover{
+.portfolio:hover, .home:hover{
     text-decoration: underline;
-}
-
-.home > a:link, .home > a:visited, .home:active, .home:hover{
-    color:black;
-    text-decoration: none;
 }
