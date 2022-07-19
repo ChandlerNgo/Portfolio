@@ -8,7 +8,7 @@ body {
     flex-direction: flex-start;
 }
 
-.home,.portfolio,.social{
+.home,.portfolio,.skill{
     margin: 10px;
     font-size: xx-large;
 }
