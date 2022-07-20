@@ -1,14 +1,4 @@
-body {
-    font-family: 'Trebuchet MS', sans-serif;
-    background-color: gray;
-  }
 
-.navbar{
-    display:flex;
-    flex-direction: flex-start;
-}
-
-.home,.portfolio,.skill
 .navbar {
     display: flex;
     height: 100vh;
@@ -177,18 +167,4 @@ body {
     grid-area: main;
     align-self: center;
     justify-self: center;
-}
-
-.portfolio > a:link, .portfolio > a:visited, .portfolio:active{
-    color:white;
-    text-decoration: none;
-}
-
-.home > a:link, .home > a:visited, .home:active{
-    color:white;
-    text-decoration: none;
-}
-
-.portfolio:hover, .home:hover{
-    text-decoration: underline;
 }
