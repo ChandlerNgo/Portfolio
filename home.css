@@ -173,3 +173,7 @@ body {
     text-align: center;
     font-size: xx-large;
 }
+
+.links{
+    transform: scale(150%);
+}

@@ -168,3 +168,8 @@ body {
     align-self: center;
     justify-self: center;
 }
+
+
+.links{
+    transform: scale(150%);
+}

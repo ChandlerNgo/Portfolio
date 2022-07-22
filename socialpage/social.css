@@ -178,3 +178,7 @@ body {
 .email:hover{
     color:blue;
 }
+
+.links{
+    transform: scale(150%);
+}
